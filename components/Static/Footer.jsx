@@ -48,20 +48,20 @@ export default function Footer() {
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Links</p>
                             <div>
-                                <Link href="https://bit.ly/3LYzaDe">
+                                <Link href="https://galaxykedy.vercel.app/vote">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Vote Bot
+                                        Oy Ver
                                     </a>
                                 </Link>
                             </div>
                             <div>
-                                <a href="https://discord.gg/ZcDprCrFTn" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    Support Server
+                                <a href="https://discord.com/invite/dTUr58ZVCp" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                    Destek Sunucusu
                                 </a>
                             </div>
                             <div>
-                                <a href=" https://bit.ly/3PHDjyC" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    Invite Bot
+                                <a href=" https://discord.com/oauth2/authorize?client_id=1026857529545855047&scope=bot%20applications.commands&permissions=2146958847" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                    Davet Et
                                 </a>
                             </div>
                         </div>

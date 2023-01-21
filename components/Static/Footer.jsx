@@ -30,8 +30,8 @@ export default function Footer() {
                                         />
                                     </Menu.Button>
 <div className="py-1"></div>
-<a href="https://top.gg/bot/924325576095973426">
-  <img src={"https://top.gg/api/widget/servers/924325576095973426.svg"}/>
+<a href="https://galaxykedy.vercel.app/vote">
+  <img src={"https://galaxykedy.vercel.app/error"}/>
 </a>
 <div className="py-1"></div>
 <a href="https://top.gg/bot/924325576095973426">

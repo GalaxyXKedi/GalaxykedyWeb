@@ -3,27 +3,35 @@ import Link from "next/link";
 
 export default function Commands() {
   const commands = [
-    "/help",
-    "/invite",
-    "/lyrics",
+    "/yardım",
+    "/afk",
+    "/avatar",
     "/ping",
-    "/stats",
-    "/setdj",
-    "/play",
-    "/serach",
-    "/stop",
-    "/skip",
-    "/back",
-    "/clear",
-    "/time",
-      "/queue",
-      "/pause",
-      "/resume",
-      "/volume",
-      "/nowplaying",
-      "/save",
-      "/loop",
-      "/filter"
+    "/istatistik",
+    "/emoij-yazı",
+    "/emojiler",
+    "/yavaş-mod",
+    "/temizle",
+    "/sa-as",
+    "/rol-ver",
+    "/rol-oluştur",
+    "/rol-al",
+      "/ban",
+      "/unban",
+      "/ban-list",
+      "/forceban",
+      "/reklam-engel",
+      "/oylama",
+      "/oto-tag",
+      "/oto-rol",
+      "/küfür-engel",
+      "/reklam-engel",
+      "/kurucu-kim",
+      "/kick",
+      "/kayıtlı-rol",
+      "/kayıt-et",
+      "/kanal-açıklama",
+      "/hg-bb"
       ]
   return (
     <>
@@ -33,10 +41,10 @@ export default function Commands() {
       </div>
         <p className="text-xl font-medium text-white">
           <i className="fal fa-cogs text-amber-400 mr-2" />
-         Bot Commands
+         Bot Komutları
         </p>
         <p className="text-white text-sm text-opacity-50 mb-5">
-        You can get information about the commands of the Astra Bot.
+        GalaxyKedy Botun komutları hakkında bilgi alabilirsiniz.
         </p>
 
         <div>
@@ -47,7 +55,7 @@ export default function Commands() {
                  
                     <>
                       <i className="fa fa-hashtag text-white text-opacity-20" />
-                     View Commands List
+                     Komut Listesini Görüntüle
                     </>
                 
                 </div>
@@ -83,23 +91,23 @@ export default function Commands() {
 
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
-  <Link href={"https://bit.ly/3PHDjyC"}>
+  <Link href={"https://discord.com/oauth2/authorize?client_id=1026857529545855047&scope=bot%20applications.commands&permissions=2146958847"}>
   <a className={"flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Invite Astra</a>
+Botu Davet Et</a>
   </Link>
 
   <div className="py-10"></div>
   
-  <Link href={"https://discord.gg/ZcDprCrFTn"}>
+  <Link href={"https://discord.com/invite/dTUr58ZVCp"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Support Server</a>
+Destek Sunucusu</a>
   </Link>
 
   <div className="py-10"></div>
   
-  <Link href={"https://bit.ly/3LYzaDe"}>
+  <Link href={"https://galaxykedy.vercel.app/Vote"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Vote Astra</a>
+Oy Ver</a>
   </Link>
 </div>
 

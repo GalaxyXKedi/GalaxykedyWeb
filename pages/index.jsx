@@ -88,7 +88,7 @@ Bota Oy Ver</a>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
                   <img src="https://cdn.discordapp.com/attachments/1026869473766031378/1066422233444122634/yardm.PNG"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
                   <p className="text-3xl text-white font-semibold">En Mükemmel Yapılmış Botunuz</p>
-                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">En iyi ve en güncel bot Astra ile en güzel partileri vermeye hazır mısınız?</p>
+                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">En iyi ve en güncel bot GalaxyKedy ile en güzel partileri vermeye hazır mısınız?</p>
                 </div>
                 <img src="https://cdn.discordapp.com/attachments/1026869473766031378/1066422233444122634/yardm.PNG" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
